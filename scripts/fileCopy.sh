@@ -32,4 +32,3 @@ find "$source_directory" -type f | \
       echo "Copied .$ext files to $target_dir"
     fi
   done
-

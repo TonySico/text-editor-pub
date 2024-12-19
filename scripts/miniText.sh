@@ -53,4 +53,3 @@ echo "miniText average cache references: ${avg_cacheRef}"
 echo -e "---------------------------------------\n"
 
 # Calculate and return the average time in milliseconds
-
