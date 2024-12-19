@@ -26,7 +26,9 @@ $ ./fileCopy.sh
 ## miniText.sh
 
 - Used to iterate through the numerous file sizes for miniText in specific extracting the average execution time, average CPU time, average number of CPU instructions, and average number of cache references made.
-
+- Parameters:\
+  \$1 = iterations\
+  \$2 = file to open
 - Usage:
 
 ```bash
