@@ -4,7 +4,7 @@ This repository contains all of the relevant scripts used in the completion of t
 
 ## bench.sh
 
-- Used to run both the miniText.sh and time.sh scripts in parallel
+- Used to run both the miniText.sh and time.sh scripts in sequence.
 - Parameters:\
   \$1 = iterations\
   \$2 = file to open
