@@ -1,6 +1,7 @@
 # IDE Empirical Performance Analysis
 
 This repository contains all of the relevant scripts used in the completion of the analysis for the Vi, Vim, Emacs, Nano, and miniText editors.
+miniText is based on the following [C Build your own editor](https://viewsourcecode.org/snaptoken/kilo/)
 
 ## bench.sh
 
